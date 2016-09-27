@@ -1,0 +1,18 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "showFPS"       : false,
+    "renderMode"    : 1,
+    "jsList"        : [
+    	"js/resource.js",
+    	"js/MainScene.js",
+    	"js/GameScene.js",
+        "js/OverScene.js",
+        "js/ComboSprite.js",
+        "js/NumberSprite.js",
+        "js/Card.js",
+        "js/ProgressFlower.js",
+        "js/ProgressBar.js"
+    ]
+}
